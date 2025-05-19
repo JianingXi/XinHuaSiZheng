@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a60f5968-0467-4024-85e9-71fe89612026" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/XinHuaSiZheng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingshifangwen.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sCCS5hsTQNiIPkVPFwcaVZPKGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.dingshifangwen.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a60f5968-0467-4024-85e9-71fe89612026" name="Changes" comment="" />
+      <created>1737950166110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737950166110</updated>
+      <workItem from="1737950167213" duration="4800000" />
+      <workItem from="1737958130856" duration="780000" />
+      <workItem from="1738208464582" duration="142000" />
+      <workItem from="1738208613851" duration="188000" />
+      <workItem from="1738210855946" duration="606000" />
+      <workItem from="1738643915820" duration="6000" />
+      <workItem from="1738643930494" duration="170000" />
+      <workItem from="1738644160215" duration="1161000" />
+      <workItem from="1738734288869" duration="9000" />
+      <workItem from="1738820385416" duration="667000" />
+      <workItem from="1738995851691" duration="31000" />
+      <workItem from="1738995904849" duration="26000" />
+      <workItem from="1738995986416" duration="484000" />
+      <workItem from="1738996480669" duration="35000" />
+      <workItem from="1739349161347" duration="22000" />
+      <workItem from="1739419581107" duration="127000" />
+      <workItem from="1739521567293" duration="1203000" />
+      <workItem from="1739600474971" duration="43000" />
+      <workItem from="1739601140439" duration="393000" />
+      <workItem from="1739601658566" duration="22000" />
+      <workItem from="1739612807537" duration="883000" />
+      <workItem from="1739632264117" duration="629000" />
+      <workItem from="1739637376088" duration="11000" />
+      <workItem from="1739942296317" duration="10000" />
+      <workItem from="1739942343882" duration="10000" />
+      <workItem from="1739972320555" duration="77000" />
+      <workItem from="1740022070717" duration="23000" />
+      <workItem from="1740115191257" duration="40000" />
+      <workItem from="1740145720902" duration="14000" />
+      <workItem from="1740206965077" duration="334000" />
+      <workItem from="1740409444985" duration="203000" />
+      <workItem from="1740457805442" duration="16000" />
+      <workItem from="1740486294290" duration="610000" />
+      <workItem from="1740493294659" duration="603000" />
+      <workItem from="1740539578442" duration="136000" />
+      <workItem from="1740573204841" duration="17000" />
+      <workItem from="1740844778053" duration="793000" />
+      <workItem from="1740905156295" duration="7000" />
+      <workItem from="1741220915344" duration="517000" />
+      <workItem from="1741234692609" duration="18000" />
+      <workItem from="1741436722596" duration="280000" />
+      <workItem from="1741442944186" duration="1000" />
+      <workItem from="1742263831111" duration="1306000" />
+      <workItem from="1742266350794" duration="5000" />
+      <workItem from="1745539439127" duration="207000" />
+      <workItem from="1745540008160" duration="6000" />
+      <workItem from="1746616842113" duration="49000" />
+      <workItem from="1746668022134" duration="2842000" />
+      <workItem from="1746673493672" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/XinHuaSiZheng$dingshifangwen.coverage" NAME="dingshifangwen 覆盖结果" MODIFIED="1746668047746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
